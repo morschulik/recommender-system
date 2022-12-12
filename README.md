@@ -2,9 +2,9 @@
 
 # Objectives:
 
--[x] Learn about the different types of recommendation systems
--[x] Review and collect courses and information about the topic 
--[x] Explore the *content based* and *collaborative filter* recommenders using the movielens dataset
+- [x] Learn about the different types of recommendation systems
+- [x] Review and collect courses and information about the topic 
+- [x] Explore the *content based* and *collaborative filter* recommenders using the movielens dataset
 - [ ] Evaluate the performance of the above recommenders in predicting user preferences using some metrics
 - [ ] Compare the CO2 footprint of each of the above recommender system
 - [ ] Build a hybrid system of the above systems
