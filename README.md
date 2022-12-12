@@ -1,77 +1,28 @@
-# recommender-systems
+# Recommender Systems
 
-# ToDo edit the draft of this readme 
+# Objectives:
 
+-[x] Learn about the different types of recommendation systems
+-[x] Review and collect courses and information about the topic 
+-[x] Explore the *content based* and *collaborative filter* recommenders using the movielens dataset
+- [ ] Evaluate the performance of the above recommenders in predicting user preferences using some metrics
+- [ ] Compare the CO2 footprint of each of the above recommender system
+- [ ] Build a hybrid system of the above systems
+-[ ] Build an End to End recommendation system (in the cloud)
+- [ ] Build a small App (using Django or fastapi) with the recommendation system
 
-#### Objectives: #todo
+# Files
 
-- review and collect courses and Infomrations about the topic
-- Explore the conent based and collaborative filter recommender on movielens dataset
-- Build an End to End recommendation system
+The work includes the following notebooks
 
-
-#### Dataset description
-
-#todo write the features from here or from the screenshots https://www.tensorflow.org/datasets/catalog/movielens
-
-#ToDo :edit the acknowledgment of the dataset
-
-@article{10.1145/2827872,
-author = {Harper, F. Maxwell and Konstan, Joseph A.},
-title = {The MovieLens Datasets: History and Context},
-year = {2015},
-issue_date = {January 2016},
-publisher = {Association for Computing Machinery},
-address = {New York, NY, USA},
-volume = {5},
-number = {4},
-issn = {2160-6455},
-url = {https://doi.org/10.1145/2827872},
-doi = {10.1145/2827872},
-journal = {ACM Trans. Interact. Intell. Syst.},
-month = dec,
-articleno = {19},
-numpages = {19},
-keywords = {Datasets, recommendations, ratings, MovieLens}
-}
-
-
-
-# todo Data can be downloaded from https://grouplens.org/datasets/movielens/20m/
-
-#todo similar to [here](https://github.com/GoogleCloudPlatform/tensorflow-recommendation-wals/blob/master/notebooks/Part1.ipynb) 
-
-# to do The MovieLens data set
-edit the following to replace the 100k by the 20 m dataset
-
-Execute the following cell to download the MovieLens 100k data set:
-
-```
-!curl -O 'http://files.grouplens.org/datasets/movielens/ml-100k.zip'
-!unzip ml-100k.zip
-!mkdir -p ../data
-!cp ml-100k/u.data ../data/
-```
-
-
-     
-
-
-
-#### Files
-
-The work would includes the following notebooks
-
-- recommender_systems_overview.ipynb ---> includes the phases of building a recommendation system and  a basic overview of the filtering systems (with pictures from the google cloud course)
-- RS_workflow_in_cloud.ipynb ---> Pictures of the workflow from AWS, GCP, Azure
-- CB_Recommender_movielens.ipynb
-- FB_Recommender_movielens.ipynb
-
-- CB_vs_FB_Evaluation.ipynb
-- CO2_foot_print_CB_vs_FB.ipynb
-
-- outlook_and_further_work.ipynb (or as subsection here) (includes building end to end recommendation system)
-
+- [x] recommender_systems_overview.ipynb 
+- [x] RS_workflow_in_cloud.ipynb 
+- [x] CB_Recommender_movielens.ipynb
+- [x] FB_Recommender_movielens.ipynb
+- [x] CB_vs_FB_Evaluation.ipynb
+- [x] CO2_footprint_CB_vs_FB.ipynb
+- [x] outlook_and_further_work.ipynb 
+- [ ] Dataset_description.ipynb
 
 
 #### sources # todo check how to make the sources well and edit the following section
