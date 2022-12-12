@@ -42,7 +42,7 @@ From the above notebook we can find a way to get and download the data in the no
 <a id="6">[6]</a> [GitHub Repo of the Singapore group](https://github.com/karthikmswamy/RecSys/blob/master/Train_RecSys.ipynb) <br>
 <a id="7">[7]</a> [Phases of recommendation process](https://www.sciencedirect.com/science/article/pii/S1110866515000341)<br>
 
-#### sources for Content bases, collaborative filtering and deap learning using Movielense Dataset
+#### Sources for Content bases, collaborative filtering and deap learning using Movielense Dataset
 <a id="8">[8]</a> [Content based Recommender](https://medium.com/analytics-vidhya/content-based-recommender-systems-in-python-2b330e01eb80)<br>
 <a id="9">[9]</a> [Movielens - Content Based](https://www.kaggle.com/code/indralin/movielens-project-1-1-content-based)<br>
 <a id="10">[10]</a> [Movielens - Collaborative Filtering](https://www.kaggle.com/code/indralin/movielens-project-1-2-collaborative-filtering)<br>
@@ -59,7 +59,7 @@ From the above notebook we can find a way to get and download the data in the no
 <a id="16">[16]</a> [Monitor your models in production - Evaluation metrics](https://neptune.ai/blog/how-to-monitor-your-models-in-production-guide)<br>
 <a id="17">[17]</a> [Evaluation metrics of recommender Systems](https://neptune.ai/blog/recommender-systems-metrics )<br>
 
-##### sources for comparing content base vs collaborative filtering
+##### Sources for comparing content base vs collaborative filtering
 <a id="18">[18]</a> [CF and CF differences and similarities](https://arxiv.org/pdf/1912.08932.pdf) <br>
 <a id="19">[19]</a> [CF vs CF](https://analyticsindiamag.com/collaborative-filtering-vs-content-based-filtering-for-recommender-systems/) <br>
 <a id="20">[20]</a> [Performance metrics CB vs CF](https://medium.com/analytics-vidhya/movie-recommender-system-using-content-based-and-collaborative-filtering-84a98b9bd98e)<br>
