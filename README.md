@@ -15,14 +15,14 @@
 
 The work includes the following notebooks
 
-- [x] recommender_systems_overview.ipynb 
-- [x] RS_workflow_in_cloud.ipynb 
-- [x] CB_Recommender_movielens.ipynb
-- [x] FB_Recommender_movielens.ipynb
-- [ ] CB_vs_FB_Evaluation.ipynb
-- [ ] CO2_footprint_CB_vs_FB.ipynb
-- [x] outlook_and_further_work.ipynb 
-- [x] Dataset_description.ipynb
+- [x] [recommender_systems_overview.ipynb](https://github.com/morschulik/recommender-system/blob/V3/Notebooks/recommender_systems_overview.ipynb) 
+- [x] [RS_workflow_in_cloud.ipynb](https://github.com/morschulik/recommender-system/blob/V3/Notebooks/RS_workflow_in_cloud.ipynb) 
+- [x] [CB_Recommender_movielens.ipynb](https://github.com/morschulik/recommender-system/blob/V3/Notebooks/CB_Recommender_movielens.ipynb)
+- [x] [CF_Recommender_movielens.ipynb]()
+- [ ] [CB_vs_CF_Evaluation.ipynb]()
+- [ ] [CO2_footprint_CB_vs_CF.ipynb]()
+- [x] [outlook_and_further_work.ipynb]() 
+- [x] [Dataset_description.ipynb]()
 
 
 # References
