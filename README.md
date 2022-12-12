@@ -19,10 +19,10 @@ The work includes the following notebooks
 - [x] [RS_workflow_in_cloud.ipynb](https://github.com/morschulik/recommender-system/blob/V3/Notebooks/RS_workflow_in_cloud.ipynb) 
 - [x] [CB_Recommender_movielens.ipynb](https://github.com/morschulik/recommender-system/blob/V3/Notebooks/CB_Recommender_movielens.ipynb)
 - [x] [CF_Recommender_movielens.ipynb](https://github.com/morschulik/recommender-system/blob/V3/Notebooks/CF_Recommender_movielens.ipynb)
-- [ ] [CB_vs_CF_Evaluation.ipynb]()
-- [ ] [CO2_footprint_CB_vs_CF.ipynb]()
-- [x] [outlook_and_further_work.ipynb]() 
-- [x] [Dataset_description.ipynb]()
+- [ ] [CB_vs_CF_Evaluation.ipynb](https://github.com/morschulik/recommender-system/blob/V3/Notebooks/CB_vs_CF_Evaluation.ipynb)
+- [ ] [CO2_footprint_CB_vs_CF.ipynb](https://github.com/morschulik/recommender-system/blob/V3/Notebooks/CO2_footprint_CB_vs_CF.ipynb)
+- [x] [outlook_and_further_work.ipynb](https://github.com/morschulik/recommender-system/blob/V3/Notebooks/outlook_and_further_work.ipynb) 
+- [x] [Dataset_description.ipynb](https://github.com/morschulik/recommender-system/blob/V3/Notebooks/Dataset_description.ipynb)
 
 
 # References
