@@ -58,7 +58,7 @@ Many of the pictures of the overview are screenshots of the references below:
 #### Sources about the Evaluation of the Recommending Algorithms
 <a id="16">[16]</a> [Monitor your models in production - Evaluation metrics](https://neptune.ai/blog/how-to-monitor-your-models-in-production-guide)<br>
 <a id="17">[17]</a> [Evaluation metrics of recommender Systems](https://neptune.ai/blog/recommender-systems-metrics )<br>
-<a id ="17a"> [17.a] </a> [MAE and RMSE — Which Metric is Better?](https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d)
+<a id ="17a"> [17.a] </a> [MAE and RMSE — Which Metric is Better?](https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d)<br>
 
 ##### Sources for comparing content base vs collaborative filtering
 <a id="18">[18]</a> [CF and CF differences and similarities](https://arxiv.org/pdf/1912.08932.pdf) <br>
@@ -67,12 +67,15 @@ Many of the pictures of the overview are screenshots of the references below:
 
 #### Sources for the Outlook - Building an End to End Recommendation system (in the cloud)
 <a id="21">[21]</a> [Building a recommender system in the cloud(GCP)](https://cloud.google.com/recommender/docs/key-concepts?hl=en) <br>
+<a id="21.a"> [21.a] </a> [Guidline to buliding a recommendation system in the cloud](https://cloud.google.com/blog/topics/developers-practitioners/looking-build-recommendation-system-google-cloud-leverage-following-guidelines-identify-right-solution-you-part-i?hl=en)<br>
 <a id="22">[22]</a> [workflow of building a recommendation system in the cloud:(Azure)](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/ai/movie-recommendations-with-machine-learning)<br>
 <a id="23">[23]</a> [7 Steps to build/design a recommendation systems - Build a content based recommender in the cloud](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/articles/build-content-based-recommendation-system-using-recommender)<br>
 <a id="24">[24]</a> [Feature Engineering/Preprocessing 1 - One of the steps to build a recommendation system(Azure)](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-features#feature-engineering-and-featurization)<br>
 <a id="25">[25]</a> [Feature Engineering/Preprocessing 2 - One of the steps to build a recommendation system(GCP)](https://cloud.google.com/architecture/data-preprocessing-for-ml-with-tf-transform-pt1)<br>
 <a id="26">[26]</a> [Deploying the models - One of the steps of building a recommendation system in the cloud](https://cloud.google.com/ai-platform/prediction/docs/deploying-models)<br>
-<a id="26a">[26.a]</a>[Algorithms used by Microsoft](https://github.com/microsoft/recommenders) 
+<a id="26a">[26.a]</a>[Algorithms used by Microsoft](https://github.com/microsoft/recommenders) <br>
 
 #### Sources for the Outlook - Building a Web Application with a recommender System using Django (in the cloud)
-<a id="27">[27]</a> []()<br>
+<a id="27">[27]</a> [A Django Project](https://github.com/jamattey/Django-Movie-Recommendation)<br>
+<a id="28">[28]</a> [Building a Recommendation Website with Django](https://github.com/jamattey/Django-Movie-Recommendation)<br>
+
