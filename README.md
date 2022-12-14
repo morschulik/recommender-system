@@ -8,7 +8,7 @@
 - [x] Evaluate the performance of the above recommenders in predicting user preferences using some metrics
 - [ ] Compare the CO2 footprint of each of the above recommender system
 - [ ] Build a hybrid system of the above systems
--[ ] Build an End to End recommendation system (in the cloud)
+- [ ] Build an End to End recommendation system (in the cloud)
 - [ ] Build a small App (using Django or fastapi) with the recommendation system
 
 # Files
