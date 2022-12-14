@@ -8,7 +8,7 @@
 - [ ] Evaluate the performance of the above recommenders in predicting user preferences using some metrics
 - [ ] Compare the CO2 footprint of each of the above recommender system
 - [ ] Build a hybrid system of the above systems
--[ ] Build an End to End recommendation system (in the cloud)
+- [ ] Build an End to End recommendation system (in the cloud)
 - [ ] Build a small App (using Django or fastapi) with the recommendation system
 
 # Files
@@ -72,3 +72,5 @@ From the above notebook we can find a way to get and download the data in the no
 <a id="25">[25]</a> [Feature Engineering/Preprocessing 2 - One of the steps to build a recommendation system(GCP)](https://cloud.google.com/architecture/data-preprocessing-for-ml-with-tf-transform-pt1)<br>
 <a id="26">[26]</a> [Deploying the models - One of the steps of building a recommendation system in the cloud](https://cloud.google.com/ai-platform/prediction/docs/deploying-models)<br>
 
+#### Sources for the Outlook - Building a Web Application with a recommender System using Django (in the cloud)
+<a id="27">[27]</a> []()<br>
