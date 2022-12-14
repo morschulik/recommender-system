@@ -27,7 +27,7 @@ The work includes the following notebooks
 
 # References
 
-"...the **go to** statement should be abolished..." [[1]](#1).<br>
+
 
 Many of the pictures of the overview are screenshots of the references below:
 
@@ -36,7 +36,7 @@ Many of the pictures of the overview are screenshots of the references below:
 <a id="1">[1]</a> [Google cloud skill boost course](https://www.cloudskillsboost.google/course_templates/39) <br>
 <a id="2">[2]</a> [Also the Gliederung here: Recommendation systems with tensorflow](https://www.pluralsight.com/courses/recommendation-systems-tensorflow-google-cloud) <br>
 <a id="3">[3]</a> [A GitHub Repository about building a recommender system with Tensorflow](https://github.com/GoogleCloudPlatform/tensorflow-recommendation-wals/blob/master/notebooks/Part1.ipynb) <br>
-From the above notebook we can find a way to get and download the data in the notebook <br>
+
 <a id="4">[4]</a> [Google Developer course](https://developers.google.com/machine-learning/recommendation/overview) <br>
 <a id="5">[5]</a> [Singapore group talk ](https://www.youtube.com/watch?v=5Lm1UMogEkI) <br>
 <a id="6">[6]</a> [GitHub Repo of the Singapore group](https://github.com/karthikmswamy/RecSys/blob/master/Train_RecSys.ipynb) <br>
@@ -58,6 +58,7 @@ From the above notebook we can find a way to get and download the data in the no
 #### Sources about the Evaluation of the Recommending Algorithms
 <a id="16">[16]</a> [Monitor your models in production - Evaluation metrics](https://neptune.ai/blog/how-to-monitor-your-models-in-production-guide)<br>
 <a id="17">[17]</a> [Evaluation metrics of recommender Systems](https://neptune.ai/blog/recommender-systems-metrics )<br>
+<a id ="17a"> [17.a] </a> [MAE and RMSE — Which Metric is Better?](https://medium.com/human-in-a-machine-world/mae-and-rmse-which-metric-is-better-e60ac3bde13d)
 
 ##### Sources for comparing content base vs collaborative filtering
 <a id="18">[18]</a> [CF and CF differences and similarities](https://arxiv.org/pdf/1912.08932.pdf) <br>
@@ -71,4 +72,5 @@ From the above notebook we can find a way to get and download the data in the no
 <a id="24">[24]</a> [Feature Engineering/Preprocessing 1 - One of the steps to build a recommendation system(Azure)](https://learn.microsoft.com/en-us/azure/machine-learning/how-to-configure-auto-features#feature-engineering-and-featurization)<br>
 <a id="25">[25]</a> [Feature Engineering/Preprocessing 2 - One of the steps to build a recommendation system(GCP)](https://cloud.google.com/architecture/data-preprocessing-for-ml-with-tf-transform-pt1)<br>
 <a id="26">[26]</a> [Deploying the models - One of the steps of building a recommendation system in the cloud](https://cloud.google.com/ai-platform/prediction/docs/deploying-models)<br>
+<a id="26a">[26.a]</a>[Algorithms used by Microsoft](https://github.com/microsoft/recommenders) 
 
